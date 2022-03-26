@@ -1,0 +1,18 @@
+label {
+    font-weight: bold;
+}
+.error {
+    color: #FF0000;
+}
+nav{
+    background:rgb(226, 61, 19);
+    padding: 10px 0;
+    text-align: center;
+}
+nav h2{
+   text-align: center; 
+}
+
+.user{
+    text-align: center;
+}
